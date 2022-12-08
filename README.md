@@ -79,10 +79,9 @@ Along with Location Information we also get **Device Information** without any p
 Available Templates : 
 
 * NearYou
-* Google Drive (Suggested by @Akaal_no_one)
-* WhatsApp (Suggested by @Dazmed707)
+
 * Telegram
-* Zoom (Made by @a7maadf)
+* Zoom (Made by ANON#001)
 * Google reCAPTCHA (Made by @MrEgyptian)
 
 ## Tested On :
